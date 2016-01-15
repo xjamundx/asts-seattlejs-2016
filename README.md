@@ -12,4 +12,4 @@ Notes from an AST talk at SeattleJS
 
 ## Babel
 
-`babel code.js`
+`babel --plugins ./plugin code.js `
