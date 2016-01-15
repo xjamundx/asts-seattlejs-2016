@@ -1,0 +1,1 @@
+var seattle = rain + trees;
